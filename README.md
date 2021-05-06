@@ -2,7 +2,7 @@
 
 https://user-images.githubusercontent.com/1672142/117237665-45c8d000-ade0-11eb-8f18-6c8f0ec44e87.mp4
 
-A collection of different visuals that I have created using [Hydra](https://github.com/ojack/hydra), a JavaScript-based web tool for creating synthesized visuals. You can [use it in your browser](https://hydra.ojack.xyz/), download it as a [package with the Atom IDE](https://atom.io/packages/atom-hydra), or connect it to your own webpage with [the hydra-synth engine](https://www.npmjs.com/package/hydra-synth), available via npm.
+A collection of different visuals that I have created with [Hydra](https://github.com/ojack/hydra), a JavaScript-based web tool for creating synthesized visuals. You can [use it in your browser](https://hydra.ojack.xyz/), download it as a [package with the Atom IDE](https://atom.io/packages/atom-hydra), or connect it to your own webpage with [the hydra-synth engine](https://www.npmjs.com/package/hydra-synth), available via npm.
 
 ## Getting Started 
 
