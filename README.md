@@ -1,6 +1,6 @@
 # Hydra Visuals
 
-![](https://media.giphy.com/media/2gABpaFb9LaG4hEx6W/giphy.gif)
+![](/gif-examples/vhs-modulated-gradient.mp4)
 
 A collection of different visuals that I have created using [Hydra](https://github.com/ojack/hydra), a JavaScript-based web tool for creating synthesized visuals. You can [use it in your browser](https://hydra.ojack.xyz/), download it as a [package with the Atom IDE](https://atom.io/packages/atom-hydra), or connect it to your own webpage with [the hydra-synth engine](https://www.npmjs.com/package/hydra-synth), available via npm.
 
