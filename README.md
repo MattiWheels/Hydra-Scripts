@@ -9,7 +9,7 @@ A collection of different visuals that I have created with [Hydra](https://githu
 ###### <ins>*Running user-created scripts via browser*</ins>
 - Copy one of the scripts from this repository to your clipboard.
 - Open the [Hydra Editor](https://hydra.ojack.xyz/) in your browser (Chrome recommended).
-- Click the trash can at the top right of the screen to delete the current visual.
+- Click the trash can at the top right of the screen to delete the current visual (after admiring the mesmerizing display).
 - Paste the script from your clipboard into the editor.
 - Press the play button in the top right of the screen, or press CTRL+SHIFT+ENTER.
 
