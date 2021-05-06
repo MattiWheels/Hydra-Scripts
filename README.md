@@ -1,4 +1,4 @@
-# Hydra Visuals
+# Hydra Scripts
 
 https://user-images.githubusercontent.com/1672142/117237665-45c8d000-ade0-11eb-8f18-6c8f0ec44e87.mp4
 
