@@ -18,7 +18,7 @@ A collection of different visuals that I have created with [Hydra](https://githu
 - You can easily modify values and press the run button to execute the code and create your own visuals.
 - Try adding a single oscillator as a source. _*PLEASE NOTE: high frequency oscillations or bright flashes can trigger photosensitive epilepsy.*_ There is the potential for lots of colorful flashing, so I recommend using a relatively low integer or decimal (-5.0 - 5.0) as the first and second parameters, at least to begin.
   ```JavaScript
-  // create oscillator ( frequency, sync, gradient )
+  // create oscillator ( frequency, speed, gradient )
   osc(1,1,0)
     .out()
   ```
