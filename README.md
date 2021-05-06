@@ -28,5 +28,5 @@ A collection of different visuals that I have created using [Hydra](https://gith
     .diff(noise(2,1)) // apply a difference color filter in the shape of perlin noise to the oscillator
     .out()
   ```
-- Reference the [complete list of functions](https://github.com/ojack/hydra/blob/main/docs/funcs.md) to see a variety of uses for different sources and effects
+- Reference [the complete list of Hydra functions](https://github.com/ojack/hydra/blob/main/docs/funcs.md) to see a variety of uses for different sources and effects
 - Pressing CTRL+SHIFT+H will hide/show the code within the editor
