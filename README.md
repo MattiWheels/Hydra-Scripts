@@ -5,10 +5,10 @@ A collection of different visuals that I have created using [Hydra](https://gith
 ## Getting Started 
 
 To use these visuals: 
-- copy one of the scripts from this repository to your clipboard
-- open the [Online Hydra Editor](https://hydra.ojack.xyz/)
-- click the trash can at the top right of the screen to delete the current visual
-- paste the script from your clipboard into the editor
-- press the play button in the top right of the screen, or press CTRL+SHIFT+ENTER
-- you can easily modify values and press the run button again to execute the code and create your own visuals
+- Copy one of the scripts from this repository to your clipboard
+- Open the [Online Hydra Editor](https://hydra.ojack.xyz/)
+- Click the trash can at the top right of the screen to delete the current visual
+- Paste the script from your clipboard into the editor
+- Press the play button in the top right of the screen, or press CTRL+SHIFT+ENTER
+- You can easily modify values and press the run button again to execute the code and create your own visuals
 - Pressing CTRL+SHIFT+H will hide/show the code within the editor
