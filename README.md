@@ -6,7 +6,7 @@ A collection of different visuals that I have created using [Hydra](https://gith
 
 To use these visuals: 
 - Copy one of the scripts from this repository to your clipboard
-- Open the [Online Hydra Editor](https://hydra.ojack.xyz/)
+- Open the [Hydra Editor](https://hydra.ojack.xyz/) in your browser (Chrome recommended)
 - Click the trash can at the top right of the screen to delete the current visual
 - Paste the script from your clipboard into the editor
 - Press the play button in the top right of the screen, or press CTRL+SHIFT+ENTER
