@@ -4,7 +4,7 @@ A collection of different visuals that I have created using [Hydra](https://gith
 
 ## Getting Started 
 
-To use these visuals: 
+###### <ins>*Running user-created scripts via browser*</ins>
 - Copy one of the scripts from this repository to your clipboard
 - Open the [Hydra Editor](https://hydra.ojack.xyz/) in your browser (Chrome recommended)
 - Click the trash can at the top right of the screen to delete the current visual
