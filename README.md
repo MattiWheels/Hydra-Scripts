@@ -12,5 +12,11 @@ A collection of different visuals that I have created using [Hydra](https://gith
 - Click the trash can at the top right of the screen to delete the current visual
 - Paste the script from your clipboard into the editor
 - Press the play button in the top right of the screen, or press CTRL+SHIFT+ENTER
-- You can easily modify values and press the run button again to execute the code and create your own visuals
+
+###### <ins>*Creating your own visuals*</ins>
+- The creator of Hydra, Olivia Jack, has written some [instructions for using basic functions](https://github.com/ojack/hydra#basic-functions)
+- You can easily modify values and press the run button to execute the code and create your own visuals
+- Try adding a single oscillator as an input, and then you can add different effects on top of it
+    ```osc(1,1,0).out()```
+- Reference the [complete list of functions](https://github.com/ojack/hydra/blob/main/docs/funcs.md) to see a variety of uses for different sources and effects
 - Pressing CTRL+SHIFT+H will hide/show the code within the editor
