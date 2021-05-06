@@ -2,7 +2,7 @@
 
 A collection of different visuals that I have created using [Hydra](https://github.com/ojack/hydra), a JavaScript-based web tool for creating synthesized visuals in your browser.
 
-###### Getting Started 
+## Getting Started 
 
 To use these visuals: 
 - copy one of the scripts from this repository to your clipboard
