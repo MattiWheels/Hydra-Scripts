@@ -10,3 +10,5 @@ To use these visuals:
 - click the trash can at the top right of the screen to delete the current visual
 - paste the script from your clipboard into the editor
 - press the play button in the top right of the screen, or press CTRL+SHIFT+ENTER
+- you can easily modify values and press the run button again to execute the code and create your own visuals
+- Pressing CTRL+SHIFT+H will hide/show the code within the editor
