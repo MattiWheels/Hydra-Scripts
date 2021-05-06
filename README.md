@@ -16,7 +16,7 @@ A collection of different visuals that I have created using [Hydra](https://gith
 ###### <ins>*Creating your own visuals*</ins>
 - The creator of Hydra, Olivia Jack, has written some [instructions for using basic functions](https://github.com/ojack/hydra#basic-functions).
 - You can easily modify values and press the run button to execute the code and create your own visuals.
-- Try adding a single oscillator as an input, and then you can add different effects on top of it _*(PLEASE NOTE: high frequency oscillations or bright flashes can trigger photosensitive epilepsy).*_ Using a low integer or decimal as the first parameter is a good starting point if you aren't sure about how the oscillator functions.
+- Try adding a single oscillator as an input, and then you can add different effects on top of it _*(PLEASE NOTE: high frequency oscillations or bright flashes can trigger photosensitive epilepsy).*_ Using a low integer or decimal as the first and second parameters is a good starting point if you aren't sure about how the oscillator functions.
   ```JavaScript
   // create oscillator ( frequency, sync, gradient )
   osc(1,1,0)
