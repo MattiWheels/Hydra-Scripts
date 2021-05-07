@@ -1,0 +1,32 @@
+// @mattiwheels
+
+osc(-1.001,1,-.6)
+  .mult(osc(1.17,.1).kaleid(100))
+  .kaleid(4)
+  .diff(noise(5,1)
+        .modulatePixelate(o0)
+        .mask(shape([3,5,2,3,1].smooth())
+    .scale(2)
+  	.scrollX(-.1)
+    .scrollY(-.2)
+    .rotate(0,.6)
+    .blend(solid(1,1,1), .4)
+    .modulate(o1,1)))
+  .out(o0)
+
+gradient(.2)
+  //.diff(o0)
+  .mult(solid(4,-4,4), .1)
+  .contrast(1.3)
+  .out(o1)
+
+voronoi(2,1)
+  .modulatePixelate(o1)
+  .sub(o0)
+  .modulate(src(o2).kaleid(2).rotate(0,.07), 1)
+  //.color(21,1,4)
+  //.invert()
+  .saturate(.8)
+  .out(o2)
+
+render(o2)
