@@ -16,7 +16,7 @@ A collection of different visuals that I have created with [Hydra](https://githu
 ###### <ins>*Creating your own visuals*</ins>
 - The creator of Hydra, Olivia Jack, has written some [instructions for using basic functions](https://github.com/ojack/hydra#basic-functions).
 - You can easily modify values and press the run button to execute the code and create your own visuals.
-- Try adding a single oscillator as a source. _*PLEASE NOTE: high frequency oscillations or bright flashes can trigger photosensitive epilepsy.*_ There is the potential for lots of colorful flashing. I recommend using a relatively low integer or decimal (-5.0 - 5.0) as the first and second parameters, when first experimenting with the oscillator source.
+- Try adding a single oscillator as a source. _*PLEASE NOTE: high frequency oscillations or bright flashes can trigger photosensitive epilepsy.*_ There is the potential for lots of colorful flashing when using moving sources. I recommend using a relatively low integer or decimal (-5.0 - 5.0) as the first and second parameters when first experimenting with the oscillator source. Many sources have a speed (sync) parameter which can control how much movement is happening.
   ```JavaScript
   // create oscillator ( frequency, speed, gradient )
   osc(1,1,0)
